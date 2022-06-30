@@ -1,6 +1,7 @@
 # Skills Practiced
 - Two dimensional arrays
-- 
+- Modular programming
+- Testing & debugging
 
 # How to Play
 - To move a piece, enter the following: (x index of piece) (y index of piece) (x index of new location) (y index of new location)
